@@ -21,10 +21,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Olá, crie um título para um e-book sobre lógica da programação para iniciantes, com foco em pessoas jovens que estão curiosas para ingressar no ambiente da computação. Gostaria que tivesse alguma analogia com o universo de Harry Potter. Me traga pelo menos 4 opções.
-
-                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Olá, crie um título para um e-book sobre lógica da programação para iniciantes, com foco em pessoas jovens que estão curiosas para ingressar no ambiente da computação. Gostaria que tivesse alguma analogia com o universo de Harry Potter. Me traga pelo menos 4 opções.  |
+| conteúdo | Faça um texto para e-book, com foco em lógica da programação, introduzindo o assunto, pois será o primeiro capítulo. {REGRAS} > Explique sempre de uma maneira simples; > Deixe o texto enxuto; > Sempre traga exemplos de código em situações reais, com ênfase em python; > Trazer analogias ao universo de bruxaria, feitiços, sempre que puder |
 
 
 Midjourney：
