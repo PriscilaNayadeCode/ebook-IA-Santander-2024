@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/PriscilaNayadeCode/ebook-IA-Santander-2024/blob/main/output/Ebook%20Bootcamp.pdf"View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/PriscilaNayadeCode/ebook-IA-Santander-2024/blob/main/output/Ebook%20Bootcamp.pdf"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
