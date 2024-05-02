@@ -25,21 +25,22 @@ ChatGPT：
 | conteúdo | Faça um texto para e-book, com foco em lógica da programação, introduzindo o assunto, pois será o primeiro capítulo. {REGRAS} > Explique sempre de uma maneira simples; > Deixe o texto enxuto; > Sempre traga exemplos de código em situações reais, com ênfase em python; > Trazer analogias ao universo de bruxaria, feitiços, sempre que puder |
 
 
-Midjourney：
+Ideogram：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A young surprise wizard lookig forward with a map in his hand, where computer codes appear on the map, yellow and blue tone, RPG style |
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via ChatGPT com suas devidas adaptações
+- Imagens geradas via Ideogram
+- Formatação dos códigos feito pelo Snappify
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagens utilizadas em "assets"
+- ebook gerado durante as aulas em "output"
 
 ## 🛠️ Instruções de execução
 
