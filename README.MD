@@ -1,7 +1,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é um fork do repositório do professor Felipe Aguiar, que orientou o desenvolvimento desse trabalho.
+ > ℹ️ **NOTE:** Este é um fork do repositório do professor Felipe Aguiar, que orientou o desenvolvimento desse trabalho junto com a plataforma DIO. Esse é um projeto do Bootcamp de IA do Santander 2024.
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
